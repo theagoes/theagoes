@@ -1,6 +1,8 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi I'm Anderson
 
-I started out in the PowerApps and SharePoint Development space. 
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+
+As my first project in 2019, I resolved a business issue using PowerApps, Power Automate and SharePoint Development.
 
 - 🔭 I’m currently working on Editora Globo S.A
 - 🌱 I’m currently learning Python with Streamlit
