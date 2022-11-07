@@ -7,7 +7,7 @@ As my first project in 2019, I solved a business issue using PowerApps, Power Au
 - 🔭 I’m currently working on Editora Globo S.A
 - 🌱 I’m currently learning Python with Streamlit
 - 💬 Ask me about PowerApps with SQL Azure
-- 📫 How to reach me: agoes@outlook.com
+- 📫 How to reach me: agoes@outlook.com or [linkedin]
 - If you want to connet with more Python and PowerApps enthusiasts you can join my [Discord server][discord]
 
 ## My GitHub Stats 💻
@@ -20,6 +20,7 @@ As my first project in 2019, I solved a business issue using PowerApps, Power Au
 [twitter]: https://twitter.com/theagoes
 [discord]: https://discord.com/channels/theagoes
 [website]: https://github.com/theagoes
+[linkedin]: https://www.linkedin.com/in/anderson-goes-silva-enginner/
 
 
 <!--
