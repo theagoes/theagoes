@@ -4,7 +4,7 @@ Hey there, I'm Anderson! I started out in the PowerApps and SharePoint Developme
 
 - 🔭 I’m currently working on Editora Globo S.A
 - 🌱 I’m currently learning Python with Streamlit
-- 💬 Ask me about PowerApps with SQL 
+- 💬 Ask me about PowerApps with SQL Azure
 - 📫 How to reach me: agoes@outlook.com
 
 <!--
